@@ -1,0 +1,812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"class",
+				"className"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"cu",
+				"currentStep"
+			],
+			[
+				"mov",
+				"moveLocation"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"step",
+				"stepNumber"
+			],
+			[
+				"X",
+				"XIsNext"
+			],
+			[
+				"sect",
+				"section1Task"
+			],
+			[
+				"secti",
+				"section1Task"
+			],
+			[
+				"sec",
+				"sectionID"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"compl",
+				"completeTask"
+			],
+			[
+				"spin",
+				"spindleCount"
+			],
+			[
+				"sp",
+				"spindleFiberCount"
+			],
+			[
+				"chro",
+				"chromosomeCount"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"update",
+				"updateInfoBox"
+			],
+			[
+				"tab",
+				"table\tTag"
+			],
+			[
+				"up",
+				"updateSection1"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"forw",
+				"forwardButton"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"drag",
+				"dragenter"
+			],
+			[
+				"Lif",
+				"LifeCycle"
+			],
+			[
+				"mou",
+				"mouseleave"
+			],
+			[
+				"mous",
+				"mouseenter"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"dragg",
+				"draggingWord"
+			],
+			[
+				"drop",
+				"dropWord"
+			],
+			[
+				"ondrag",
+				"ondragleave\tAttr"
+			],
+			[
+				"onDrag",
+				"ondragenter\tAttr"
+			],
+			[
+				"info",
+				"infoField"
+			],
+			[
+				"setup",
+				"setup1_3"
+			],
+			[
+				"setu",
+				"setup1_2"
+			],
+			[
+				"set",
+				"setup1_1"
+			],
+			[
+				"com",
+				"completeSect1Task1"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"sta",
+				"stageSlot"
+			],
+			[
+				"dropSt",
+				"dropStageBack"
+			],
+			[
+				"dra",
+				"draggie"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"tran",
+				"transitionAnswers"
+			],
+			[
+				"first",
+				"firstWrong"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"task",
+				"taskFadeTime"
+			],
+			[
+				"con",
+				"congratsFadeOutTime"
+			],
+			[
+				"congr",
+				"congratsDelay"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"section",
+				"sectionID"
+			],
+			[
+				"start",
+				"startButton"
+			],
+			[
+				"load",
+				"loadingPercent"
+			],
+			[
+				"stageinf",
+				"stageInfoFontPercent"
+			],
+			[
+				"cent",
+				"centerBox"
+			],
+			[
+				"stageIn",
+				"stageInfo"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"stage",
+				"stageData"
+			],
+			[
+				"repla",
+				"replacieId"
+			],
+			[
+				"repl",
+				"replacieId"
+			],
+			[
+				"pare",
+				"parentNode"
+			],
+			[
+				"stag",
+				"stageData"
+			],
+			[
+				"get",
+				"getIndexNumber"
+			],
+			[
+				"appe",
+				"appendTo"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"shuff",
+				"shuffled"
+			],
+			[
+				"shuf",
+				"shuffled"
+			],
+			[
+				"rand",
+				"rand"
+			],
+			[
+				"shuffl",
+				"shuffleList"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"rando",
+				"randomInt"
+			],
+			[
+				"prop",
+				"progressProps"
+			],
+			[
+				"px",
+				"pxImage"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"ch",
+				"checkProps"
+			],
+			[
+				"ree",
+				"resetProps"
+			],
+			[
+				"for",
+				"forwardProps"
+			],
+			[
+				"pro",
+				"progressProps"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"star",
+				"startButton"
+			],
+			[
+				"welc",
+				"welcomeButtonFontPercent"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"x",
+				"xScale"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"tit",
+				"titleButton"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 2204,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "{"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 587.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/code/react-redux-learn/src/index.js",
+		"/D/code/react-redux-learn/src/App.js",
+		"/D/code/reactTutorial/my-app/src/index.css",
+		"/D/code/reactTutorial/my-app/src/index.js",
+		"/C/Users/kyndel/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/D/code/reactTutorial/my-app/src/App.css",
+		"/D/code/reactTutorial/my-app/src/App.js",
+		"/D/Projects/Coral Life Cycle/Development/main.css",
+		"/D/Projects/Coral Life Cycle/Development/main.js",
+		"/D/Projects/Coral Life Cycle/Development/mitosisSection.js",
+		"/D/Projects/Coral Life Cycle/Development/lifeCycleSection.js",
+		"/D/Projects/Coral Life Cycle/Development/verbiage.js",
+		"/D/Projects/Coral Life Cycle/Development/glossary.js",
+		"/D/Projects/Coral Life Cycle/Development/index.html",
+		"/D/Projects/Coral Life Cycle/Development/tasks.js",
+		"/media/kyndel/DATA/Projects/Coral Life Cycle/Development/test.html",
+		"/media/kyndel/DATA/Projects/Coral Life Cycle/Development/index.html",
+		"/home/kyndel/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/kyndel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/E/Projects/Coral Life Cycle/Development/index.html",
+		"/E/Projects/Coral Polyp/Development/dev14/main.js",
+		"/E/Projects/Coral Life Cycle/Development/pxloader-all.js",
+		"/C/Users/Sean/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Projects/Coral Life Cycle/Development/.htaccess",
+		"/E/Projects/Coral Life Cycle/Development/test.html",
+		"/E/Projects/Coral Life Cycle/Development/main.js",
+		"/C/Users/Sean/Documents/code/javascript/tether.io test/index.html",
+		"/C/Users/Sean/Documents/code/javascript/tether.io test/main.js",
+		"/C/Users/Sean/Documents/code/javascript/tether.io test/main.css",
+		"/C/Users/Sean/Documents/code/javascript/tether.io test/tether.min.js",
+		"/E/Projects/Coral Life Cycle/Development/test.css",
+		"/E/Projects/Coral Life Cycle/Development/main.css",
+		"/E/Projects/Coral Life Cycle/Development/text.html",
+		"/C/Users/Sean/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Sean/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"calculateWinner",
+			"winner",
+			"calculateWinner",
+			"winner",
+			"jumpTo",
+			"move",
+			"setState",
+			"}\n",
+			"tab",
+			"section1Tasks",
+			"tab",
+			"setupTask",
+			"welcomeButton1",
+			"setupTask",
+			"updateProgressBar",
+			"task",
+			"section1Tasks",
+			"updateProgressBar",
+			"progress",
+			"task",
+			"chromatin",
+			"task",
+			"section1Tasks",
+			"completeMitosisTask2",
+			"progress1",
+			"progress",
+			"setprogress",
+			"setProgress\t",
+			"setProgress",
+			"setup",
+			"task1CompleteText",
+			"forward",
+			"resetButton",
+			"setupTask",
+			"advanceTask",
+			"setupTask",
+			"resetbutt",
+			"reset",
+			"backButton",
+			"maxTask",
+			"forwardbu",
+			"reset",
+			"complete1_c",
+			"complete_ci",
+			"advanceTask",
+			"setupTask",
+			"reset()",
+			"setupTask",
+			"complete",
+			"setup1_3",
+			"setup1_2",
+			"setup1_1",
+			"reset",
+			"complete1_CycleOrdering",
+			"complete1",
+			"advanceTask",
+			"complete1_CycleOrdering",
+			"completeTask",
+			"forward",
+			"console.",
+			"stageDragCounter",
+			"maxTask",
+			"advanceTask",
+			"forward",
+			"complete",
+			"forward",
+			"complete1_CycleOrdering",
+			"completeTask",
+			"forward",
+			"completeTask",
+			"skip",
+			"complete1_CycleOrdering",
+			"forward",
+			"forwar",
+			"setupTask",
+			"setup()",
+			"setup",
+			"forward",
+			"complete",
+			"reset",
+			"setup",
+			"back",
+			"section1Task1",
+			"completeSec",
+			"complete",
+			"complete1_CycleOrdering",
+			"completeSect1Task1",
+			"section1Tasks",
+			"completeSect1Task1",
+			"setupt",
+			"section1Tasks",
+			"setup",
+			"setup1_1",
+			"setup",
+			"task",
+			"completeSect1Task1",
+			"task",
+			"section",
+			"CYCLE_ORDERING",
+			"section",
+			"task",
+			"completeSect1Task1",
+			"skip",
+			"dragwordfont",
+			"font-size",
+			"fonht-size",
+			"dragword",
+			"font-si",
+			"dragword",
+			"dropWord",
+			"font-size",
+			"dragword",
+			"dragWord",
+			"infoFieldHeaderFontPercent",
+			"infoFieldFontPercent",
+			"stageInfo",
+			"font-si",
+			"section1Task2Instr",
+			"lifeCycleTabTask2Text",
+			"dragWord",
+			"completeMitosisTask1",
+			"hint",
+			"innerh",
+			"reset",
+			"disabled",
+			"celldrop",
+			"180"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"70",
+			"infoBoxSize"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1280,
+								1280
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 53.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Projects\\Coral Life Cycle\\coralLifeCycle.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
